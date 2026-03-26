@@ -12,5 +12,6 @@
 
 ## Semilog plotted Graph
 ![WhatsApp Image 2026-03-26 at 8 28 04 PM](https://github.com/user-attachments/assets/54ee0074-9924-48f1-a992-a5ca6646bfae)
+![WhatsApp Image 2026-03-26 at 10 52 12 PM](https://github.com/user-attachments/assets/519cc07d-3964-4f34-8994-8ba46ef66892)
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
