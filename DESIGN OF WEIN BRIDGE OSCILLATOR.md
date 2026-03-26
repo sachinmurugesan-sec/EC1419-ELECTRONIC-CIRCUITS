@@ -25,4 +25,4 @@
 Practical frequency of Oscillation = 50 hz
 
 
-Theoritical Frequency of Oscillation = 101 hz (approx)
+Theoritical Frequency of Oscillation = 100.1 hz (approx)
